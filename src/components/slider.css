@@ -1,0 +1,25 @@
+.dots{
+    width: 12px;
+    height: 12px;
+    font-size: 30px;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255,0);
+    margin:5px;
+    border: 1px solid white;
+    cursor: pointer;
+}
+
+.dot{
+    background-color: #fff;
+    width: 12px;
+    height: 12px;
+    font-size: 30px;
+    border-radius: 50%;
+    margin:5px;
+    border: 1px solid white;
+    cursor: pointer;
+}
+
+#root {
+    size: 500px;
+}
